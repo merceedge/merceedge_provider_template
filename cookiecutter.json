@@ -1,0 +1,10 @@
+{
+    "provider_project_name": "new_provider_project",
+    "provider_package_name": "new_provider",
+    "provider_class_name": "NewProvider",
+    "author": "Your Name",
+    "contact": "Your email",
+    "homepage": "https://github.com/merceedge/MerceEdge",
+    "description": "This is a MerceEdge provider package project.",
+    "license": "Apache2.0"
+}
